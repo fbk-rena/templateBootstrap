@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn-row {
+    margin-bottom: 10px;
+}
+
+.label-h {
+    display: flex;
+}
+
+.label {
+    margin: 2px;
+}
+
+.badge-a {
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+.carrusel img{
+    width: 100%
+}
